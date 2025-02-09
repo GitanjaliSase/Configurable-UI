@@ -1,4 +1,4 @@
-/*const WEBSITE_NAME="Cocoon Hotel";
+const WEBSITE_NAME="Cocoon Hotel";
 const LOCATION="cocoon hotel magarpatta city near south gate, Magarpatta City, Pune, India, 411013";
 const MAPVIEW="https://www.bing.com/maps?mepi=129%7EDirections%7EUnknown%7EDirection_Button&ty=0&rtp=pos.18.509029388427734_73.92864990234375__Cocoon+Hotel__e_%7E&mode=d&v=2&sV=1&cp=18.508123%7E73.931744&lvl=14.2";
 const WEBSITE_DESCRIPTION="Enjoy urban comfort at Cocoon Hotel in Pune. Solo travelers will love the in-room kitchenette. Immerse yourself in the Diwali festivities and explore local attractions easily. Book now for an unparalleled urban retreat. Discover the vibrant neighborhood of Magarpatta City, Pune, renowned for its shopping malls, restaurants, and parks. Cocoon Hotel offers 24/7 security, room service, and a cozy coffee shop, ensuring a comfortable and convenient stay for solo travelers. Relax in well-equipped rooms with air conditioning, complimentary Wi-Fi, and a refreshing shower. Take in stunning city views from select rooms. Enjoy easy access to Amanora Mall and Seasons Mall for a perfect shopping experience. Don't miss out on this exceptional urban retreat! [Some content may be Generative AI assisted. Inaccuracies may occur.]";
@@ -8,8 +8,8 @@ const BUTTON1="View more details";
 const BUTTON2="Book Now";
 
 export {WEBSITE_NAME,LOCATION,WEBSITE_DESCRIPTION,WEBSITE_URL,IMAGES,BUTTON1,BUTTON2};
-*/
 
+/*
 const WEBSITE_NAME="St Laurn Koregaon Park";
 const LOCATION="15 A Koregaon Park ,Pune, Koregaon Park, Pune, India, 411001";
 const MAPVIEW="https://www.bing.com/maps?mepi=129%7EDirections%7EUnknown%7EDirection_Button&ty=0&rtp=pos.18.538570404052734_73.88577270507812__St+Laurn+Business+Hotel%2C+Koregaon+Park__e_%7E&mode=d&v=2&sV=1&cp=18.538583%7E73.885798&lvl=14.5";
@@ -20,3 +20,5 @@ const BUTTON1="View more details";
 const BUTTON2="Book Now";
 
 export {WEBSITE_NAME,LOCATION,MAPVIEW,WEBSITE_DESCRIPTION,WEBSITE_URL,IMAGES,BUTTON1,BUTTON2};
+
+*/
